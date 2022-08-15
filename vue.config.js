@@ -4,7 +4,7 @@ module.exports = {
   ],
   productionSourceMap: false,
   pwa: {
-    name: 'Aura Admin',
+    name: 'GDG Cloud Pune-Admin',
     workboxPluginMode: 'InjectManifest',
     themeColor: '#4A90E2',
     msTileColor: '#4A90E2',
